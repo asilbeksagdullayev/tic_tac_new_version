@@ -1,0 +1,17 @@
+body{
+ display: grid;
+ place-items: center;
+ height: 100vh;
+ background-color: #efed40;
+ color: aqua;
+
+}
+p{
+ display: none;
+ color:red;
+ font-size: 25px;
+ font-weight: bold;
+}
+h1{
+ cursor: pointer;
+}
